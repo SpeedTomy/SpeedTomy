@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=speedtomy" alt="speedtomy" /></a> </p>
 -->
-- 👨‍💻 All of my projects are available at (Coming soon)
+- 👨‍💻My portfolio website is available at (Coming soon)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mansourthomas/](https://www.linkedin.com/in/mansourthomas/)
 
