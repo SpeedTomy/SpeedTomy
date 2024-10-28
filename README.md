@@ -2,8 +2,8 @@
   <img src="https://github.com/SpeedTomy/SpeedTomy/blob/main/logo%20mt.png" alt="Mon Image" width="100" />
 </p>
 <h1 align="center">Hi 👋, I'm Mansour Thomas</h1>
-<h3 align="center">I'm an immersive tech enthusiast, eager to be at the forefront of future innovations and technologies.<br> 
-  Currently studying computer science in my engineer cycle to build a robust foundation in software engineering and AI.</h3>
+<h3 align="center">I'm an immersive and neuro tech enthusiast, eager to be at the forefront of future innovations and technologies.<br> 
+  Currently studying computer science in my engineer cycle to build a robust foundation in software engineering, robotics and AI.</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speedtomy&label=Profile%20views&color=0e75b6&style=flat" alt="speedtomy" /> </p>
